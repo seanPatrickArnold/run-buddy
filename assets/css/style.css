@@ -227,5 +227,8 @@ h3 {
   .contact a {
     color: #fce138;
   }
-  /* REACH OUT STYLES END */
+  .hero-secondary {
+    background-color: black;
+    color: red;
+  }
   
